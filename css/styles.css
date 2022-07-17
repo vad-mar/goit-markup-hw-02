@@ -1,0 +1,8 @@
+p::selection {
+  color: #fff;
+  background-color: seagreen;
+}
+p::first-letter {
+  color: red;
+  font-size: 32px;
+}
