@@ -5,6 +5,7 @@
   --white-color: #ffffff;
   --not-white: #f5f4fa;
   --dark-bgc: #2f303a;
+  --interactive-btn: #188ce8;
 }
 
 body {
@@ -105,7 +106,7 @@ body {
 
 .hero-button:hover,
 .hero-button:focus {
-  background-color: #188ce8;
+  background-color: var(--interactive-btn)
 }
 
 /* features section */
